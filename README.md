@@ -1,4 +1,4 @@
-# vue-starter
+# vue initial app  
 
 ## Build Setup
 
